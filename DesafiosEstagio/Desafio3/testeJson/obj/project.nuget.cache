@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxGdM2wja5MuoTyUpDUGoro0IQnqdKKFkDvNcanpkhSX+9P69dVkQpY26G/XhydC/FRY/J1dM49y27VnYmMIFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaor\\OneDrive\\Área de Trabalho\\Pasta de Estudos\\POO_C#\\Banco\\testeJson\\TesteJson\\TesteJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaor\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

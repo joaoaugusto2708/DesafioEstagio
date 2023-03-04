@@ -1,0 +1,17 @@
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\bin\Debug\net6.0\TesteJson.exe
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\bin\Debug\net6.0\TesteJson.deps.json
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\bin\Debug\net6.0\TesteJson.runtimeconfig.json
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\bin\Debug\net6.0\TesteJson.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\bin\Debug\net6.0\ref\TesteJson.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\bin\Debug\net6.0\TesteJson.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\TesteJson.csproj.AssemblyReference.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\TesteJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\TesteJson.AssemblyInfoInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\TesteJson.AssemblyInfo.cs
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\TesteJson.csproj.CoreCompileInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\TesteJson.csproj.CopyComplete
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\TesteJson.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\ref\TesteJson.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\TesteJson.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\Pasta de Estudos\POO_C#\Banco\testeJson\TesteJson\obj\Debug\net6.0\TesteJson.genruntimeconfig.cache
